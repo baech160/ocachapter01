@@ -18,6 +18,7 @@ public class OCAChapter01 {
         // TODO code application logic here
         System.out.println(args[0]);
         System.out.println(args[1]);
+        System.out.println(args[2]);
     }
     
 }
